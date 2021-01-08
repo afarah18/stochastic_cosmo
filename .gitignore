@@ -1,0 +1,5 @@
+**/__pycache__/*
+stochastic_cosmo.egg-info/*
+***.pyc
+notebooks/.ipynb_checkpoints/*
+
