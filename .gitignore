@@ -2,4 +2,5 @@
 stochastic_cosmo.egg-info/*
 ***.pyc
 notebooks/.ipynb_checkpoints/*
+.ipynb_checkpoints/*
 
